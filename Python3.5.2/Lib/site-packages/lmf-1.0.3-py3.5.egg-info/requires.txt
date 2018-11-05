@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+pymssql
+jieba
+numpy
+mysqlclient
+pymssql
+psycopg2
