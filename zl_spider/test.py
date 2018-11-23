@@ -1,11 +1,86 @@
 # coding=gbk
+#
 
+# num_list = [245, 301, 332, 366, 415, 465, 474, 483]
+# num = 481
+# list_num = int(len(num_list))
+# for i in range(1, list_num+1):
+#     print(i)
+#     if i == 1:
+#         if num <= num_list[i - 1]:
+#             print('1111')
+#             num = num
+#             print(num)
+#             # f1_data(driver, i)
+#             # return num
+#
+#     else:
+#         if num_list[i-2] < num <= num_list[i-1]:
+#             print('333')
+#             num = num - num_list[i - 2]
+#             print(num)
+            # f1_data(driver, i)
+            # return num
+
+# a = [1, 2, 3, 4, 5]
+# c= []
+# for i in range(1, len(a)+1):
+#     b = sum(a[:i])
+#     c.append(b)
+#
+# print(c)
+import copy
 import re
+# #
+num = 14
 
-str = "../InfoDetail/?InfoID=f960ed15-5de9-4cb1-ad7e-f1e6de3e091b&CategoryNum=071001001001"
+url = "详见链接http://www.bidding.gov.cn/qtjygg/132201.htm"
+url = re.findall(r'(http.*)', url)[0].strip()
+print(url)
+# #
+# str = "http://www.ptfwzx.gov.cn/fwzx/wjzyzx/004002/004002010/004002010002/info=10"
+# num = int(re.findall(r'info=(\d+)', str)[0])
+# print(num)
+# from functools import wraps
+# def zhongbiao_gg(f):
+#     def wrap(*krg):
+#
+#         driver = krg[0]
+#         print(driver)
+#         return f(*krg)
+#
+#     return wrap
+#
+# @zhongbiao_gg
+# def f1(driver,num):
+#     pass
+#
+# f1(1,3)
+#
+# str = '...46'
+# num = re.findall(r'(\d+)', str)[0]
+# print(num)
 
-p = re.findall('../(.*)', str)[0]
-print(p)
+#
+# list_1 = [[1,2,4], [4,5,7], [4,5,6]]
+# list_2 = [[7,5,8], [7,8,9], [7,5,1]]
+#
+# list_3 = list_1 + list_2
+# print(list_3)
+
+# str = "当前页次?22/226??共?435?条??上一页?转至第页"
+#
+# p = re.findall(r'(\d+)/', str)[0]
+# print(p)
+#
+# total = 4001
+# print(total/20)
+# if total/20 == int(total/20):
+#     print("www")
+#     print(int(total/20))
+# else:
+#     page_all = int(total/20) + 1
+#     print(page_all)
 
 # str_1 = "http://www.ytggzyjy.gov.cn:9082/queryContent_3-jyxxZc.jspx?title=&inDates=&ext=&origin=&channelId=344"
 # str = "http://www.ytggzyjy.gov.cn:9082/queryContent_84-jyxx.jspx?title=&inDates=&ext=&origin=&channelId=269"
@@ -27,7 +102,7 @@ print(p)
 # url = re.sub("pageIndex=[0-9]*", s, url)
 # print(int(page))
 # print(url)
-import pandas as pd
+# import pandas as pd
 #
 # """http://www.lcsggzyjy.cn/lcweb/jyxx/079002/079002001/079002001007/?Paging=1
 # http://www.lcsggzyjy.cn/lcweb/jyxx/079002/079002001/079002001007"""
@@ -60,3 +135,21 @@ import pandas as pd
 # df = pd.DataFrame(data=list_1)
 #
 # print(df)
+
+# a = [1, 2, 3, ['a', 'b', ['A', 'B']]]
+a = (1, 2, 3)
+
+b = a
+c = copy.copy(a)
+d = copy.deepcopy(a)
+
+
+# a[3][2].append('C')
+
+print(a)
+print(b)
+print(c)
+print(d)
+
+
+

@@ -11,32 +11,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file leaf-file-name="yuhuan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/yuhuan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rizhao.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shangdong/rizhao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+            <state relative-caret-position="366">
+              <caret line="267" column="49" selection-start-line="267" selection-start-column="49" selection-end-line="267" selection-end-column="49" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dezhou.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shangdong/dezhou.py">
+      <file leaf-file-name="zhejiang.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/zhejiang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2288">
-              <caret line="123" column="109" selection-start-line="123" selection-start-column="109" selection-end-line="123" selection-end-column="109" />
+            <state relative-caret-position="344">
+              <caret line="187" column="36" selection-start-line="187" selection-start-column="36" selection-end-line="187" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ningbo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/ningbo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="640" column="15" selection-start-line="640" selection-start-column="15" selection-end-line="640" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lishui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/lishui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6962">
+              <caret line="352" column="20" selection-start-line="352" selection-start-column="20" selection-end-line="352" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jinhua.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/jinhua.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhoushan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/zhoushan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="258" column="30" selection-start-line="258" selection-start-column="30" selection-end-line="258" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding>
+                <element signature="e#686#697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quzhou.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhejiang/quzhou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="186" column="51" selection-start-line="186" selection-start-column="51" selection-end-line="186" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wenling.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhejiang/wenling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="198" selection-start-line="198" selection-end-line="198" />
+              <folding>
+                <element signature="e#1#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,31 +131,71 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shangdong/shangdong.py" />
-        <option value="$PROJECT_DIR$/shangdong/qingdao.py" />
-        <option value="$PROJECT_DIR$/shangdong/jinan.py" />
-        <option value="$PROJECT_DIR$/shangdong/liaocheng.py" />
-        <option value="$PROJECT_DIR$/shangdong/dezhou.py" />
-        <option value="$PROJECT_DIR$/shangdong/dongying.py" />
-        <option value="$PROJECT_DIR$/shangdong/weifang.py" />
-        <option value="$PROJECT_DIR$/shangdong/yantai.py" />
-        <option value="$PROJECT_DIR$/shangdong/weihai.py" />
+        <option value="$PROJECT_DIR$/hainan/qionghai.py" />
+        <option value="$PROJECT_DIR$/hainan/hainan.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/sanming.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/nanping.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/fuzhou.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/fujian.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/zhangzhou.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/ningde.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/xiamen.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/yongan.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/nanan.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/fuqing.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/longyan.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/shaowu.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/jianou.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/putian.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/wuyishan.py" />
+        <option value="C:/Python3.5.2/Lib/site-packages/zhulong/util/etl.py" />
+        <option value="$PROJECT_DIR$/neimenggu_v1/neimenggu.py" />
+        <option value="C:/Python3.5.2/Lib/site-packages/zhulong/shandong/feicheng.py" />
+        <option value="$PROJECT_DIR$/hainan/haikou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/cixi.py" />
+        <option value="$PROJECT_DIR$/zhejiang/dongyang.py" />
+        <option value="$PROJECT_DIR$/zhejiang/huzhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/jiaxing.py" />
+        <option value="$PROJECT_DIR$/zhejiang/hangzhou.py" />
+        <option value="$PROJECT_DIR$/fujian_v1/quanzhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/longquan.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/shangdong/rizhao.py" />
+        <option value="$PROJECT_DIR$/zhejiang/pinghu.py" />
+        <option value="$PROJECT_DIR$/zhejiang/ruian.py" />
+        <option value="$PROJECT_DIR$/zhejiang/shengzhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/taizhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/tongxiang.py" />
+        <option value="$PROJECT_DIR$/zhejiang/wenzhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/yiwu.py" />
+        <option value="$PROJECT_DIR$/zhejiang/yueqing.py" />
+        <option value="$PROJECT_DIR$/zhejiang/zhejiang.py" />
+        <option value="$PROJECT_DIR$/zhejiang/linhai.py" />
+        <option value="$PROJECT_DIR$/zhejiang/shaoxing.py" />
+        <option value="$PROJECT_DIR$/zhejiang/yuhuan.py" />
+        <option value="$PROJECT_DIR$/zhejiang/zhuji.py" />
+        <option value="$PROJECT_DIR$/zhejiang/profile" />
+        <option value="$PROJECT_DIR$/zhejiang/__init__.py" />
+        <option value="$PROJECT_DIR$/zhejiang/task.py" />
+        <option value="$PROJECT_DIR$/zhejiang/wenling.py" />
+        <option value="$PROJECT_DIR$/zhejiang/quzhou.py" />
+        <option value="$PROJECT_DIR$/zhejiang/ningbo.py" />
+        <option value="$PROJECT_DIR$/zhejiang/lishui.py" />
+        <option value="$PROJECT_DIR$/zhejiang/jinhua.py" />
+        <option value="$PROJECT_DIR$/zhejiang/zhoushan.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="32" />
-    <option name="width" value="1661" />
-    <option name="height" value="1042" />
+    <option name="x" value="443" />
+    <option name="width" value="1600" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,18 +206,23 @@
             <path>
               <item name="zl_spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="zl_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="shangdong" type="462c0819:PsiDirectoryNode" />
+              <item name="zhejiang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zhaobiao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hainan" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\g_zi\Desktop\zhulong\zl_spider\zhejiang" />
+      <recent name="C:\Users\g_zi\Desktop\zhulong\zl_spider\fujian" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,8 +236,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rizhao">
-    <configuration name="rizhao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wenling">
+    <configuration name="ningbo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zl_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,17 +245,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shangdong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhejiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shangdong/rizhao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhejiang/ningbo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quzhou" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zl_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,17 +263,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhejiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhejiang/quzhou.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="weifang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wenling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zl_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,17 +281,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shangdong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhejiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shangdong/weifang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhejiang/wenling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="weihai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zhoushan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zl_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,17 +299,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shangdong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhejiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shangdong/weihai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhejiang/zhoushan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="yantai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zhuji" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zl_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,30 +317,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shangdong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhejiang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shangdong/yantai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhejiang/zhuji.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.weifang" />
-      <item itemvalue="Python.yantai" />
-      <item itemvalue="Python.weihai" />
-      <item itemvalue="Python.rizhao" />
+      <item itemvalue="Python.quzhou" />
+      <item itemvalue="Python.zhoushan" />
+      <item itemvalue="Python.zhuji" />
+      <item itemvalue="Python.ningbo" />
+      <item itemvalue="Python.wenling" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rizhao" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.weihai" />
-        <item itemvalue="Python.yantai" />
-        <item itemvalue="Python.weifang" />
+        <item itemvalue="Python.quzhou" />
+        <item itemvalue="Python.wenling" />
+        <item itemvalue="Python.zhoushan" />
+        <item itemvalue="Python.ningbo" />
+        <item itemvalue="Python.zhuji" />
       </list>
     </recent_temporary>
   </component>
@@ -235,199 +358,476 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="32" width="1661" height="1042" extended-state="0" />
-    <editor active="true" />
+    <frame x="443" y="0" width="1600" height="1059" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14171287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14788732" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43535912" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5009597" side_tool="true" weight="0.321513" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990403" visible="true" weight="0.29501083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286052" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965397" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14395393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990403" visible="true" weight="0.321513" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965397" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286052" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009597" side_tool="true" weight="0.321513" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python3.5.2/Lib/site-packages/zhulong/shandong/feicheng.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/shandong_v1/bingzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="154">
+          <caret line="130" column="21" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/rizhao.py">
+    <entry file="file://C:/Python3.5.2/Lib/site-packages/zhulong/util/etl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2860">
-          <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+        <state relative-caret-position="498">
+          <caret line="448" column="4" selection-start-line="448" selection-start-column="4" selection-end-line="448" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hainan/hainan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="145" column="39" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="39" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://C:/Python3.5.2/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="348">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/rizhao.py">
+    <entry file="file://C:/Python3.5.2/Lib/site-packages/lmfscrap/multipage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2860">
-          <caret line="146" column="18" lean-forward="true" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+        <state relative-caret-position="314">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/debug.log" />
+    <entry file="file://C:/Python3.5.2/Lib/site-packages/zhulong/shandong/feicheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/hainan/haikou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        <state relative-caret-position="-70">
+          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/liaocheng.py">
+    <entry file="file://C:/Python3.5.2/Lib/site-packages/zhulong/shandong/binzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5016">
-          <caret line="244" column="5" lean-forward="true" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/weifang.py">
+    <entry file="file://$PROJECT_DIR$/fujian_v1/longyan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="2662">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/fujian_v1/nanan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7434">
+          <caret line="379" lean-forward="true" selection-start-line="379" selection-end-line="379" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/nanping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5784">
+          <caret line="304" column="15" lean-forward="true" selection-start-line="304" selection-start-column="15" selection-end-line="304" selection-end-column="15" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/sanming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="157" column="56" lean-forward="true" selection-start-line="157" selection-start-column="56" selection-end-line="157" selection-end-column="56" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/yongan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="178" column="23" lean-forward="true" selection-start-line="178" selection-start-column="23" selection-end-line="178" selection-end-column="23" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/zhangzhou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3454">
+          <caret line="271" column="26" lean-forward="true" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/fuzhou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python3.5.2/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/quanzhou.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/liaocheng.py">
+    <entry file="file://$PROJECT_DIR$/fujian_v1/jianou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+        <state relative-caret-position="-1146">
+          <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python3.5.2/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+    <entry file="file://$PROJECT_DIR$/fujian_v1/ningde.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        <state relative-caret-position="-5148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/putian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujian_v1/xiamen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="180" column="45" selection-start-line="180" selection-start-column="45" selection-end-line="180" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-2026539547/builtins.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/cixi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="4951" column="42" selection-start-line="4951" selection-start-column="31" selection-end-line="4951" selection-end-column="42" />
+        <state relative-caret-position="3804">
+          <caret line="195" column="24" lean-forward="true" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/jinan.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/dongyang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="121" column="52" selection-start-line="121" selection-start-column="52" selection-end-line="121" selection-end-column="52" />
+        <state relative-caret-position="4408">
+          <caret line="236" column="30" lean-forward="true" selection-start-line="236" selection-start-column="30" selection-end-line="236" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python3.5.2/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/hangzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="323" column="71" lean-forward="true" selection-start-line="323" selection-start-column="71" selection-end-line="323" selection-end-column="71" />
+        <state relative-caret-position="2992">
+          <caret line="206" column="1" lean-forward="true" selection-start-line="206" selection-start-column="1" selection-end-line="206" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/dongying.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/linhai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="204" column="19" lean-forward="true" selection-start-line="204" selection-start-column="19" selection-end-line="204" selection-end-column="19" />
+        <state relative-caret-position="1552">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/liaocheng.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/longquan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="5181">
+          <caret line="248" lean-forward="true" selection-start-line="248" selection-end-line="248" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/qingdao.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/huzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="302">
+          <caret line="207" column="22" lean-forward="true" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/shangdong.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/pinghu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+        <state relative-caret-position="3183">
+          <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/weifang.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/ruian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="36" column="16" lean-forward="true" selection-end-line="205" />
+        <state relative-caret-position="4471">
+          <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/yantai.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/shengzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
-          <caret line="195" column="47" selection-start-line="195" selection-start-column="47" selection-end-line="195" selection-end-column="47" />
+        <state relative-caret-position="3817">
+          <caret line="181" column="55" lean-forward="true" selection-start-line="181" selection-start-column="55" selection-end-line="181" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/weihai.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/shaoxing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        <state relative-caret-position="-673">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/taizhou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4491">
+          <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/tongxiang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3937">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/zhuji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="263" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/wenzhou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/yiwu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5478">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/jiaxing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3627">
+          <caret line="174" column="23" lean-forward="true" selection-start-line="174" selection-start-column="23" selection-end-line="174" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/yueqing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="175" column="30" selection-start-line="175" selection-start-column="30" selection-end-line="175" selection-end-column="30" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/zhejiang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="187" column="36" selection-start-line="187" selection-start-column="36" selection-end-line="187" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/yuhuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="267" column="49" selection-start-line="267" selection-start-column="49" selection-end-line="267" selection-end-column="49" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/rizhao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+        <state relative-caret-position="616">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#686#697#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shangdong/dezhou.py">
+    <entry file="file://$PROJECT_DIR$/zhejiang/quzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="123" column="109" selection-start-line="123" selection-start-column="109" selection-end-line="123" selection-end-column="109" />
+        <state relative-caret-position="322">
+          <caret line="186" column="51" selection-start-line="186" selection-start-column="51" selection-end-line="186" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/zhoushan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="258" column="30" selection-start-line="258" selection-start-column="30" selection-end-line="258" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/lishui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6962">
+          <caret line="352" column="20" selection-start-line="352" selection-start-column="20" selection-end-line="352" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/ningbo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="640" column="15" selection-start-line="640" selection-start-column="15" selection-end-line="640" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/jinhua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhejiang/wenling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
